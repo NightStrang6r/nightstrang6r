@@ -4,3 +4,4 @@
 - [💥 Site](https://leoit.dev "Personal site")
 - [🚀 WebScraper](https://scraper.leoit.dev "Web Scraper")
 - [📧 WebMail](https://mail.leoit.dev "Web Mail")
+- [🤖 XDL](https://xdl.leoit.dev "XDL")
