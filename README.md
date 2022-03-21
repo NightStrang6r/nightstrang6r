@@ -4,7 +4,8 @@
 - [💥 Site](https://leoit.dev "Personal site")
 - [🚀 WebScraper](https://scraper.leoit.dev "Web Scraper")
 - [📧 WebMail](https://mail.leoit.dev "Web Mail")
-- [🤖 XDL](https://xdl.leoit.dev "XDL")
+- [🔐 PasswordGenerator](https://pass.leoit.dev "Password Generator")
+- [🤖 XDL](https://xdl.leoit.dev "XDL Extension")
 
 ## 🎁 Donate
 If you like what I do, maybe consider buying me a coffee/tea 😅👉👈
