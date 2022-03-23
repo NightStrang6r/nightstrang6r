@@ -4,6 +4,7 @@
 - [💥 Site](https://leoit.dev "Personal site")
 - [🚀 WebScraper](https://scraper.leoit.dev "Web Scraper")
 - [📧 WebMail](https://mail.leoit.dev "Web Mail")
+- [😉 EmojiGenerator](https://emoji.leoit.dev "Emoji Generator")
 - [🔐 PasswordGenerator](https://pass.leoit.dev "Password Generator")
 - [🤖 XDL](https://xdl.leoit.dev "XDL Extension")
 
