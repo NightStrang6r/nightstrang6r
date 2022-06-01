@@ -8,21 +8,13 @@
 - [🔐 PasswordGenerator](https://pass.leoit.dev "Password Generator")
 - [🤖 XDL](https://xdl.leoit.dev "XDL Extension")
 
-<br />
-
 ## 🏆 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=NightStrang6r&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical" />
 
-<br />
-<br />
-
 ## 🔥 Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightstrang6r&layout=compact&theme=radical" />
-
-<br />
-<br />
 
 ## 🎁 Donate
 If you like what I do, maybe consider buying me a coffee/tea 😅👉👈
