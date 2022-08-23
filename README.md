@@ -6,7 +6,6 @@
 - [📧 WebMail](https://mail.leoit.dev "Web Mail")
 - [😉 EmojiGenerator](https://emoji.leoit.dev "Emoji Generator")
 - [🔐 PasswordGenerator](https://pass.leoit.dev "Password Generator")
-- [🤖 XDL](https://xdl.leoit.dev "XDL Extension")
 
 ## 🏆 Stats
 
@@ -19,7 +18,13 @@
 ## 🎁 Donate
 If you like what I do, maybe consider buying me a coffee/tea 😅👉👈
 
-<a href="https://www.buymeacoffee.com/nightstrang6r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" /></a>
+<a href="https://send.monobank.ua/jar/7fiVkcrWYv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" /></a>
+
+## 📧 Contacts
+If you have any questions, I will be glad to answer.
+
+- Telegram - [@NightStrang6r](https://t.me/NightStrang6r)
+- Discord - 𝓝𝓲𝓰𝓱𝓽𝓢𝓽𝓻𝓪𝓷𝓰𝓮𝓻#0015
 
 <br />
 
