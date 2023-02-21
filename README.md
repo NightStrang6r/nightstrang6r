@@ -1,11 +1,11 @@
-[![Header](https://raw.githubusercontent.com/NightStrang6r/nightstrang6r/main/assets/header.png)](https://leoit.dev)
+[![Header](https://raw.githubusercontent.com/NightStrang6r/nightstrang6r/main/assets/header.png)](https://leoit.space)
 
 ## 👀 Online-hosted projects
-- [💥 Site](https://leoit.dev "Personal site")
-- [🚀 WebScraper](https://scraper.leoit.dev "Web Scraper")
-- [📧 WebMail](https://mail.leoit.dev "Web Mail")
-- [😉 EmojiGenerator](https://emoji.leoit.dev "Emoji Generator")
-- [🔐 PasswordGenerator](https://pass.leoit.dev "Password Generator")
+- [💥 Site](https://leoit.space "Personal site")
+- [🚀 WebScraper](https://scraper.leoit.space "Web Scraper")
+- [📧 WebMail](https://mail.leoit.space "Web Mail")
+- [😉 EmojiGenerator](https://emoji.leoit.space "Emoji Generator")
+- [🔐 PasswordGenerator](https://pass.leoit.space "Password Generator")
 
 ## 🏆 Stats
 
