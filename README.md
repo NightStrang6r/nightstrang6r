@@ -1,11 +1,10 @@
-[![Header](https://raw.githubusercontent.com/NightStrang6r/nightstrang6r/main/assets/header.png)](https://leoit.space)
+[![Header](https://raw.githubusercontent.com/NightStrang6r/nightstrang6r/main/assets/header.png)](https://nightstranger.space)
 
 ## 👀 Online-hosted projects
-- [💥 Site](https://leoit.space "Personal site")
-- [🚀 WebScraper](https://scraper.leoit.space "Web Scraper")
-- [📧 WebMail](https://mail.leoit.space "Web Mail")
-- [😉 EmojiGenerator](https://emoji.leoit.space "Emoji Generator")
-- [🔐 PasswordGenerator](https://pass.leoit.space "Password Generator")
+- [💥 Site](https://nightstranger.space "Personal site")
+- [📧 WebMail](https://mail.nightstranger.space "Web Mail")
+- [😉 EmojiGenerator](https://nightstrang6r.github.io/EmojiGenerator/ "Emoji Generator")
+- [🔐 PasswordGenerator](https://nightstrang6r.github.io/PasswordGenerator/ "Password Generator")
 
 ## 🏆 Stats
 
@@ -24,7 +23,7 @@ If you like what I do, maybe consider buying me a coffee/tea 😅👉👈
 If you have any questions, I will be glad to answer.
 
 - Telegram - [@NightStrang6r](https://t.me/NightStrang6r)
-- Discord - 𝓝𝓲𝓰𝓱𝓽𝓢𝓽𝓻𝓪𝓷𝓰𝓮𝓻#0015
+- Discord - nightstranger
 
 <br />
 
